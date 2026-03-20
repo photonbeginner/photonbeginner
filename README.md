@@ -1,5 +1,14 @@
-## Hi there 👋
+# About me
+My name: Vu Phan; 
+Born date: 8/19/2007
 
+I am currently a student at University of Massachusetts Boston. My major is Electrical Engineering, and I am interested in photonic circuit field.
+
+I learn coding to serve as a tool for designing and simulation in studying, researching and working in the field.
+
+I join Github to use it as a tool to track my study progress in coding, as I explore about Linux OS, Git and Github. At the time I write these lines, I am unfamiliar and new to the environemnt. 
+
+### End
 <!--
 **photonbeginner/photonbeginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
